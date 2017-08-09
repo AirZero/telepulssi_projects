@@ -57,9 +57,9 @@ void draw() {
 //  man();
   //manSpeaks();
   //text1();
-clock();
+//clock();
 //clockRotating();
-//clockSlider();  
+clockSlider();  
 //  knightClock();
   
   /*
